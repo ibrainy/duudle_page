@@ -1,6 +1,6 @@
 var pm2 = require('pm2');
 
-var MACHINE_NAME = 'duudle';
+var MACHINE_NAME = 'duudle_page';
 var PRIVATE_KEY  = 'y4y1xt4tuo7eqqr';   // Keymetrics Private key
 var PUBLIC_KEY   = 'vqkosx2vp2rkq5u';   // Keymetrics Public  key
 
